@@ -2,4 +2,4 @@
 - echo '"(Ôo)'\' : prints a confused smiley
 - cat /etc/passwd : display the file content
 - cat /etc/passwd /etc/hosts : display the two files content
-- tail /etc/passwd : displays the last 10 lines of the file passwd
+- tail -n 10 /etc/passwd : displays the last 10 lines of the file passwd
