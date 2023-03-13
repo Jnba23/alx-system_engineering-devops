@@ -1,4 +1,6 @@
 - echo "Hello world \" : prints “Hello, World”
 - echo '"(Ôo)'\' : prints a confused smiley
-- cat /etc/passwd
+- cat /etc/passwd : display the file content
+- cat /etc/passwd /etc/hosts : display the two files content
+
 
